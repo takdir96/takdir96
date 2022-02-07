@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @takdir96
-- 👀 I’m interested in Cardano Developer
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning Haskell
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me is with twitter @takdir96
